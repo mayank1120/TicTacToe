@@ -1,2 +1,2 @@
 # TicTacToe
-A C++ program to Implement simple TicTac Toe Game
+A C++ program to Implement simple TicTacToe Game
